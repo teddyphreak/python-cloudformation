@@ -1,0 +1,5 @@
+ansible>=2.1.2
+boto3>=1.4.1
+pytest-pep8>=1.0.6
+pytest-flakes>=1.0.1
+paver>=1.2.4
